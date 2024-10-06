@@ -1,0 +1,7 @@
+Prestamista: RICARDO
+Cliente: LEONARDO
+Monto Inicial: 7.8937298E7
+Tasa de Interés: 0.03 mensual
+Tiempo: 2 años
+Interés Simple Calculado: 5.683485456E7
+----------------------------
